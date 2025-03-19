@@ -1,13 +1,15 @@
-# A propos
-Dans cet exercice, nous étudions trois algorithmes de tri classiques : le tri à bulles, le tri par sélection et le tri par fusion. L'objectif est de :
+# A propos 
+Dans cet exercice, nous étudions quatre algorithmes de tri classiques : le tri à bulles, le tri par insertion, le tri rapide (QuickSort) et le tri par sélection. L'objectif est de :
 
 Comprendre le fonctionnement de chaque algorithme :
 
 Tri à bulles : Comparer les éléments adjacents et les permuter si nécessaire, répétant le processus jusqu'à ce que la liste soit triée.
 
-Tri par sélection : Sélectionner le plus petit élément de la liste non triée et l'échanger avec le premier élément non trié, répétant ce processus pour chaque position.
+Tri par insertion : Prendre un élément non trié à la fois et l'insérer à sa place correcte dans la partie déjà triée de la liste.
 
-Tri par fusion : Diviser la liste en deux moitiés, trier chaque moitié récursivement, puis fusionner les deux moitiés triées.
+Tri rapide (QuickSort) : Choisir un pivot, partitionner la liste en deux sous-listes (éléments inférieurs et supérieurs au pivot), puis appliquer récursivement le tri rapide sur chaque sous-liste.
+
+Tri par sélection : Sélectionner le plus petit élément de la liste non triée et l'échanger avec le premier élément non trié, répétant ce processus pour chaque position.
 
 Visualiser leur performance :
 
